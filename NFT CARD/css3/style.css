@@ -1,0 +1,113 @@
+body
+{
+  background-color:  hsl(217, 54%, 11%);
+}
+
+.img
+{
+  width:250px;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.main
+{
+  margin: 120px auto;
+  width: 280px;
+  height: 480px;
+  border-radius: 10px;
+  font-family: sans-serif;
+  background-image: linear-gradient(rgba(158, 158, 179, 0.445), rgba(209, 209, 235, 0.219));
+}
+
+.section1
+{
+  color:white;
+  font-size: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.text1
+{
+  color: rgb(139, 138, 138);
+  margin-right: 50px;
+}
+
+.icon-etherium
+{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.div1
+{
+  width: 60px;
+  margin-left: 35px;
+  margin-top: -30px;
+}
+
+.h2{
+  font-size: 12px;
+  display: inline-block;
+  color: hsl(178, 100%, 50%);
+}
+
+.div2
+{
+  float: right;
+  margin-right: 20px;
+  margin-top: -40px;
+  height: 30px;
+}
+
+.paragrafo
+{
+  margin-top: 16px;
+  color:rgb(139, 138, 138);
+  font-size: 12px;
+}
+
+.icon-relogio
+{
+  float: right;
+  margin-right: 80px;
+  margin-top: -25px;
+  height: 15px;
+}
+
+.footer
+{
+  border-top: 1px solid rgba(139, 138, 138, 0.185);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.img-avatar
+{
+  height: 30px;
+  position: absolute;
+  margin-top: 15px;
+  border: 1px solid white;
+  border-radius: 15px;
+
+}
+
+.text-footer
+{
+  font-size: 12px;
+  color: rgb(139, 138, 138);
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+.text-footer2
+{
+  color:white;
+  font-size: 12px;
+  margin-left: 105px;
+  margin-top: -26px;
+
+}
